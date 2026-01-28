@@ -19,6 +19,6 @@ Este projeto é voltado para iniciantes que estão aprendendo sobre **listas** e
 - Calcula a média das notas
 - Cria duas listas: notas acima/igual à média e notas abaixo da média
 - Retorna as duas listas para o usuário
-
+ 
 
 ---
