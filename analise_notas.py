@@ -17,4 +17,4 @@ lista_notas = [9, 2, 3, 4, 5, 6, 7, 8]
 acima, abaixo = analisar_notas(lista_notas)
 
 print(f'Notas acima da media: {acima}')
-print(f'Notas abaixo da media: {abaixo}')
+print(f'Notas abaixo da media: {abaixo}') 
