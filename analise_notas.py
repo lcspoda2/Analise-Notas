@@ -1,8 +1,10 @@
 def analisar_notas(notas):
     acima_media = []
     abaixo_media = []
+    # soma as notas da lista e faz a media
     soma = sum(notas)
     media = soma / len(notas)
+    # manda as medias para cada lista conforme a nota
     for n in notas:
         if n >= media:
             acima_media.append(n)
