@@ -1,18 +1,33 @@
 # Análise de Notas em Python
 
-## Descrição
-Este projeto analisa uma lista de notas, calcula a média e separa notas acima e abaixo da média. 
-É um exercício de lógica, listas, funções e estruturas condicionais.
+## 📌 Descrição
+Projeto criado para analisar notas de alunos utilizando Python.
+O programa recebe uma lista de notas, calcula informações importantes
+e retorna os resultados através de funções.
 
-## Tecnologias
-- Python
+Este projeto foi desenvolvido durante meus estudos de:
+- Funções
+- Listas
+- Estruturas de repetição
+- Cálculo de média
 
-## Funcionalidades
-- Calcular a média das notas
-- Separar notas acima e abaixo da média
-- Retornar os resultados em listas
+## 🛠 Tecnologias utilizadas
+- Python 3
 
-## Como usar
-1. Abra o arquivo Python
-2. Altere a lista de notas se desejar
-3. Execute o código para ver o resultado
+## ▶️ Como executar
+1. Clone este repositório:
+   git clone https://github.com/lcspoda2/Analise-Notas
+
+2. Abra o projeto no seu editor
+
+3. Execute o arquivo:
+   python analise_notas.py
+
+## 📊 Funcionalidades
+- Armazena notas em uma lista
+- Analisa quais notas estão acima da média
+- Retorna os resultados usando funções
+
+## 🎯 Objetivo do projeto
+Praticar a manipulação de listas dentro de funções e entender melhor
+como retornar dados processados em Python.
